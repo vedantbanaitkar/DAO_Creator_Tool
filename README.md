@@ -20,19 +20,23 @@ Supporting custom token creation with Algorand Standard Assets (ASAs).
 Intuitive UI for DAO setup.
 Define token distribution and governance rules.
 Set voting thresholds, caps, and participant roles.
-Pre-configured governance templates for faster deployment.
+Pre-configured governance templates for faster deployment.  
+
 4.2 Voting Mechanism
 Quadratic voting support to prevent token centralization.
 Token-weighted voting with automatic smart contract execution.
-Transparent on-chain vote tracking.
+Transparent on-chain vote tracking.  
+
 4.3 Smart Contract Integration
 Automatic smart contract generation for DAO rules.
 Atomic transfers for trustless multi-step operations.
 Escrow mechanisms for secure fund management.
-4.4 Security & Transparency
+4.4 Security & Transparency  
+
 Algorand's high-speed transactions ensure real-time governance updates.
 On-chain audit trails provide transparency in all DAO decisions.
-Multi-signature wallets for sensitive operations.
+Multi-signature wallets for sensitive operations.  
+
 ## 5. Technology Stack
 Blockchain: Algorand (using AlgoKit Utils with Python and TypeScript libraries)
 Frontend: React.js with Tailwind CSS
